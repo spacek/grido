@@ -4,7 +4,7 @@
     "license": "(BSD-3-Clause OR GPL-2.0 OR GPL-3.0)",
     "repository": {
         "type": "git",
-        "url": "git://github.com/o5/grido.git"
+        "url": "git://github.com/spacek/grido.git"
     },
     "scripts": {
         "watch": "./node_modules/.bin/gulp"
