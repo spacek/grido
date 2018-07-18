@@ -1,7 +1,7 @@
 {
-    "name": "o5/grido",
+    "name": "spacek/grido",
     "type": "library",
-    "description": "Grido - DataGrid for Nette Framework",
+    "description": "O5 Grido - DataGrid for Nette Framework - Spacek fork",
     "keywords": ["datagrid", "datalist", "tablegrid", "grid", "list", "table", "nette"],
     "homepage": "http://o5.github.io/grido-examples/",
     "license": ["MIT"],
